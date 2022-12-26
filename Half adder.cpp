@@ -13,3 +13,12 @@ int main() {
     Half_Adder(A,B);
     return 0;
 }
+
+
+
+OUTPUT 
+SUM = 1 
+CARRY = 0
+
+
+
